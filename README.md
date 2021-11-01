@@ -1,5 +1,11 @@
 # MOI-Twitter-analyze
 Name : Mohammad suliman Alowibdi
+**Supervised by :**
+**•	Dr. Mariam elmasry**
+**•	Dr. Chiekh Alloul**
+
+
+
 
 **Question/needs:**
 Studying the analytical data of government agencies to ensure the speed of response to inquiries and reduce the time and effort expended for that through the use of statistical functions that ensure, God willing, sorting out what is reported on the authority’s account on the Twitter platform, providing computer-technical suggestions, and determining how to deal with those tweets quickly
