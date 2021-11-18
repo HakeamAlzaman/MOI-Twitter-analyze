@@ -1,4 +1,4 @@
-# MOI-Twitter-analyze
+# Twitter-analyze
 Name : Mohammad suliman Alowibdi
 0549797697
 
